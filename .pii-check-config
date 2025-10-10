@@ -1,0 +1,17 @@
+# PII Check Configuration
+# Customize patterns for this repository
+
+# Company-specific patterns to detect
+SSNC
+DPP-[0-9]+
+INTERNAL-[0-9]+
+
+# Safe patterns to allow
+PROJECT
+DAVIDSPROJ
+JIRA-[0-9]+
+TICKET-[0-9]+
+user@example.com
+test@example.com
+
+# Add more patterns as needed

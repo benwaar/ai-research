@@ -16,6 +16,10 @@ This repository contains research, documentation, and proven processes for integ
 - **[Angular Library Upgrade Process](ANGULAR_UPGRADE_PROCESS.md)**  
   *Step-by-step automated process for upgrading Angular libraries with AI assistance*
 
+### Security & Compliance
+- **[Git Pre-Commit PII Check Process](commit-pii-check.md)**  
+  *Automated prevention of PII and sensitive data commits across repositories*
+
 ## 🚀 AI-Powered Workflow Integration
 
 ### Getting Started with AI Processes
@@ -49,12 +53,30 @@ This repository contains research, documentation, and proven processes for integ
 - Document any improvements or issues encountered
 - Share learnings with the team
 
+## 🛠️ Available Scripts
+
+### Security Scripts
+- **`scripts/setup-pii-check.sh`** - Install PII detection pre-commit hook in any repository
+- **`scripts/pre-commit-pii-check.sh`** - Core PII detection script for git hooks
+
+### Usage Examples
+```bash
+# Setup PII check in current repository
+./scripts/setup-pii-check.sh
+
+# Test PII detection
+echo "SSNC-internal" > test.txt
+git add test.txt
+git commit -m "test"  # Will be blocked by PII check
+```
+
 ## 🎯 Future Research Areas
 
 - [ ] **Automated Code Review Processes**: Using AI for PR reviews and feedback
 - [ ] **Test Automation Scripts**: Developing scripts to automate unit test generation
 - [ ] **Documentation Generation**: AI-assisted technical documentation creation
 - [ ] **Performance Optimization**: AI-guided code performance improvements
+- [ ] **Security Scanning Integration**: Expand PII detection with vulnerability scanning
 
 ## 🤝 Contributing
 
