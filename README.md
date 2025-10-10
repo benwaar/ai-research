@@ -27,6 +27,8 @@ This repository contains research, documentation, and proven processes for integ
   *Comprehensive research on AI-powered unit test automation and generation processes*
 - **[AI-Powered Pull Request Review Research](ai-pr-review-research.md)**  
   *Investigation into automated code review workflows using GitHub Copilot and AI*
+- **[Model Context Protocol (MCP) Integration Research](mcp-integration-research.md)**  
+  *Advanced AI tool integration using MCP for enhanced development workflows and coordination*
 
 ## 🚀 AI-Powered Workflow Integration
 
@@ -154,10 +156,29 @@ git commit -m "test"  # Will be blocked by PII check
   - License compliance checking and reporting
   - Breaking change impact analysis and migration assistance
 
+### 🔗 Model Context Protocol (MCP) Integration
+- [ ] **MCP-Based Development Workflows**
+  - Leverage Model Context Protocol for enhanced AI tool integration
+  - Connect multiple AI services and development tools through standardized protocols
+  - Build custom MCP servers for organization-specific development contexts
+  - Integrate with Cursor IDE and other MCP-compatible development environments
+
+- [ ] **AI-Powered BDD Testing with MCP**
+  - Use MCP to connect AI models with Playwright and other testing frameworks
+  - Automated behavior-driven development test generation and execution
+  - Cross-platform test automation with AI context sharing
+  - Integration between different AI tools for comprehensive test coverage
+
+#### 📚 MCP Learning Resources
+- [MCP Overview and Implementation Guide](https://www.youtube.com/watch?v=p4L01ZQRPrM)
+- [Advanced MCP Integration Techniques](https://www.youtube.com/watch?v=4SyYaDTR_Uc)
+- [Integrating Cursor and LLM for BDD Testing with MCP](https://kailash-pathak.medium.com/integrating-cursor-and-llm-for-bdd-testing-in-playwright-mcp-model-context-protocol-677d0956003f)
+
 ### 📄 Detailed Research Documentation
 > **Note**: Comprehensive research documents have been created for priority areas:
 > - See [automated-test-generation-research.md](automated-test-generation-research.md) for detailed implementation plans, code examples, and success metrics for automated unit testing
 > - See [ai-pr-review-research.md](ai-pr-review-research.md) for complete workflows, GitHub Actions integration, and AI-powered code review processes
+> - See [mcp-integration-research.md](mcp-integration-research.md) for advanced AI tool coordination using Model Context Protocol, including Cursor IDE integration and multi-AI orchestration
 
 ## 🤝 Contributing
 
