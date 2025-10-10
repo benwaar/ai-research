@@ -13,7 +13,7 @@ This repository contains research, documentation, and proven processes for integ
   *Comprehensive guide covering test generation, troubleshooting, and best practices for AI-assisted testing*
 
 ### Development Processes  
-- **[Angular Library Upgrade Process](ANGULAR_UPGRADE_PROCESS.md)**  
+- **[Angular Library Upgrade Process](angular-upgrade-process.md)**  
   *Step-by-step automated process for upgrading Angular libraries with AI assistance*
 
 ### Security & Compliance
