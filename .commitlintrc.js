@@ -11,7 +11,7 @@ module.exports = {
     'header-max-length': [2, 'always', 72],
     'scope-enum': [1, 'always', [
       'api', 'auth', 'ui', 'docs', 'tests', 'config', 
-      'deps', 'scripts', 'core', 'utils', 'pii', 'security'
+      'deps', 'scripts', 'core', 'utils', 'pii', 'security', 'research'
     ]]
   }
 };
