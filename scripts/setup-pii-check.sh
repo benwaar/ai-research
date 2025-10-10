@@ -94,6 +94,20 @@ declare -a safe_patterns=(
     "TICKET-[0-9]+"
     "PROJECT"
     "DAVIDSPROJ"
+    # Documentation examples
+    "Replace.*SSNC"
+    "SSNC.*→"
+    "e\.g\..*SSNC"
+    "DPP-XXXX"
+    "Pattern:.*SSNC"
+    "# Company.*SSNC"
+    "\"SSNC\""
+    "jdbc:\[.*\]"
+    "mongodb://\[.*\]"
+    "redis://\[.*\]"
+    "echo.*SSNC"
+    "\.md:.*SSNC"
+    "\.sh:.*SSNC"
 )
 
 # Define file extensions to check
