@@ -19,6 +19,8 @@ This repository contains research, documentation, and proven processes for integ
 ### Security & Compliance
 - **[Git Pre-Commit PII Check Process](commit-pii-check.md)**  
   *Automated prevention of PII and sensitive data commits across repositories*
+- **[Conventional Commits Configuration](conventional-commits.md)**  
+  *Standardized commit message format for better project history and automation*
 
 ## 🚀 AI-Powered Workflow Integration
 
@@ -53,16 +55,38 @@ This repository contains research, documentation, and proven processes for integ
 - Document any improvements or issues encountered
 - Share learnings with the team
 
+### Commit Standards
+This project follows [Conventional Commits](https://www.conventionalcommits.org/):
+- **feat**: New features
+- **fix**: Bug fixes  
+- **docs**: Documentation changes
+- **chore**: Maintenance tasks
+- **refactor**: Code improvements without feature changes
+
+Examples: `feat(auth): add OAuth integration`, `fix: resolve memory leak`, `docs: update README`
+
 ## 🛠️ Available Scripts
 
 ### Security Scripts
 - **`scripts/setup-pii-check.sh`** - Install PII detection pre-commit hook in any repository
 - **`scripts/pre-commit-pii-check.sh`** - Core PII detection script for git hooks
 
+### Development Scripts
+- **`scripts/setup-conventional-commits.sh`** - Configure conventional commits with optional tooling
+
 ### Usage Examples
 ```bash
 # Setup PII check in current repository
 ./scripts/setup-pii-check.sh
+
+# Setup conventional commits
+./scripts/setup-conventional-commits.sh
+
+# Interactive conventional commit
+npm run commit
+
+# Standard conventional commit  
+git commit -m "feat(docs): add conventional commits guide"
 
 # Test PII detection
 echo "SSNC-internal" > test.txt

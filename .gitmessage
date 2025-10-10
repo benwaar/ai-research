@@ -1,0 +1,45 @@
+# <type>[optional scope]: <description>
+#
+# [optional body]
+#
+# [optional footer(s)]
+
+# --- COMMIT END ---
+# Type can be:
+#   feat     (new feature)
+#   fix      (bug fix)
+#   docs     (documentation)
+#   style    (formatting, no code change)
+#   refactor (code change that neither fixes bug nor adds feature)
+#   perf     (code change that improves performance)
+#   test     (adding missing tests, refactoring tests)
+#   chore    (updating grunt tasks etc; no production code change)
+#   build    (changes that affect build system or external dependencies)
+#   ci       (changes to CI configuration files and scripts)
+#   revert   (reverts a previous commit)
+#
+# Scope is optional and can be:
+#   api, auth, ui, docs, tests, config, deps, scripts
+#
+# Description:
+#   - Use imperative mood ("add" not "added" or "adds")
+#   - Don't capitalize first letter  
+#   - No period at end
+#   - Keep under 50 characters
+#
+# Body:
+#   - Explain WHAT and WHY, not HOW
+#   - Wrap at 72 characters
+#   - Separate from description with blank line
+#
+# Footer:
+#   - Reference issues: Closes #123, Fixes #456
+#   - Breaking changes: BREAKING CHANGE: description
+#   - Co-authored: Co-authored-by: Name <email>
+#
+# Examples:
+#   feat(auth): add OAuth2 integration
+#   fix: resolve memory leak in data processing  
+#   docs: update API documentation
+#   feat!: remove deprecated user endpoints
+#
