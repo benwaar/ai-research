@@ -6,28 +6,24 @@
 
 This repository contains research, documentation, and proven processes for integrating AI-powered development tools into everyday workflows. My focus is on practical, actionable guidance that developers can immediately apply to improve their productivity.
 
+This project uses [Conventional Commits Configuration](docs/conventional-commits.md)
+
 ## 📚 Guides & Documentation
 
-### Testing & Quality Assurance
-- **[Using GitHub Copilot to write unit tests](github-copilot-unit-tests.md)**  
+### 🔄 Development Processes  
+- **[Using GitHub Copilot to write unit tests](processes/github-copilot-unit-tests.md)**  
   *Comprehensive guide covering test generation, troubleshooting, and best practices for AI-assisted testing*
-
-### Development Processes  
-- **[Angular Library Upgrade Process](angular-upgrade-process.md)**  
+- **[Angular Library Upgrade Process](processes/angular-upgrade-process.md)**  
   *Step-by-step automated process for upgrading Angular libraries with AI assistance*
-
-### Security & Compliance
-- **[Git Pre-Commit PII Check Process](commit-pii-check.md)**  
+- **[Git Pre-Commit PII Check Process](processes/commit-pii-check.md)**  
   *Automated prevention of PII and sensitive data commits across repositories*
-- **[Conventional Commits Configuration](conventional-commits.md)**  
-  *Standardized commit message format for better project history and automation*
 
-### Research & Experimental
-- **[Automated Test Generation Research](automated-test-generation-research.md)**  
+### 📖 Research & Documentation
+- **[Automated Test Generation Research](docs/automated-test-generation-research.md)**  
   *Comprehensive research on AI-powered unit test automation and generation processes*
-- **[AI-Powered Pull Request Review Research](ai-pr-review-research.md)**  
+- **[AI-Powered Pull Request Review Research](docs/ai-pr-review-research.md)**  
   *Investigation into automated code review workflows using GitHub Copilot and AI*
-- **[Model Context Protocol (MCP) Integration Research](mcp-integration-research.md)**  
+- **[Model Context Protocol (MCP) Integration Research](docs/mcp-integration-research.md)**  
   *Advanced AI tool integration using MCP for enhanced development workflows and coordination*
 
 ## 🚀 AI-Powered Workflow Integration
@@ -62,16 +58,6 @@ This repository contains research, documentation, and proven processes for integ
 - Use AI chat to ask questions when steps are unclear
 - Document any improvements or issues encountered
 - Share learnings with the team
-
-### Commit Standards
-This project follows [Conventional Commits](https://www.conventionalcommits.org/):
-- **feat**: New features
-- **fix**: Bug fixes  
-- **docs**: Documentation changes
-- **chore**: Maintenance tasks
-- **refactor**: Code improvements without feature changes
-
-Examples: `feat(auth): add OAuth integration`, `fix: resolve memory leak`, `docs: update README`
 
 ## 🛠️ Available Scripts
 
@@ -176,9 +162,9 @@ git commit -m "test"  # Will be blocked by PII check
 
 ### 📄 Detailed Research Documentation
 > **Note**: Comprehensive research documents have been created for priority areas:
-> - See [automated-test-generation-research.md](automated-test-generation-research.md) for detailed implementation plans, code examples, and success metrics for automated unit testing
-> - See [ai-pr-review-research.md](ai-pr-review-research.md) for complete workflows, GitHub Actions integration, and AI-powered code review processes
-> - See [mcp-integration-research.md](mcp-integration-research.md) for advanced AI tool coordination using Model Context Protocol, including Cursor IDE integration and multi-AI orchestration
+> - See [automated-test-generation-research.md](docs/automated-test-generation-research.md) for detailed implementation plans, code examples, and success metrics for automated unit testing
+> - See [ai-pr-review-research.md](docs/ai-pr-review-research.md) for complete workflows, GitHub Actions integration, and AI-powered code review processes
+> - See [mcp-integration-research.md](docs/mcp-integration-research.md) for advanced AI tool coordination using Model Context Protocol, including Cursor IDE integration and multi-AI orchestration
 
 ## 🤝 Contributing
 
@@ -197,7 +183,7 @@ Found an improvement or have a new AI process to share? Contributions are welcom
 
 ---
 
-*Last Updated: October 10, 2025*  
+*Last Updated: October 13, 2025*  
 *Maintained by: David Benoy*
 
 
