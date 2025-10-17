@@ -28,12 +28,6 @@ MCP is an open standard that allows AI applications to securely connect to and i
    - Complex integration scenarios and solutions
    - Performance optimization and troubleshooting
 
-### Practical Applications
-3. **[BDD Testing with MCP and Cursor IDE](https://kailash-pathak.medium.com/integrating-cursor-and-llm-for-bdd-testing-in-playwright-mcp-model-context-protocol-677d0956003f)**
-   - Real-world example of MCP integration for testing workflows
-   - Cursor IDE integration with Playwright testing framework
-   - Behavior-driven development automation using MCP
-
 ## 🛠️ Research Areas for AI Development Workflows
 
 ### 1. Development Environment Integration
