@@ -1,10 +1,8 @@
 # AI Research & Development Experience
 
-> Comprehensive guides and processes for leveraging AI tools to enhance developer productivity and streamline development workflows.
 
-## 🎯 Overview
-
-This repository contains research, documentation, and proven processes for integrating AI-powered development tools into everyday workflows. My focus is on practical, actionable guidance that developers can immediately apply to improve their productivity.
+This repository contains research, documentation, and re-usabe processes for integrating AI-powered development tools into everyday workflows. My focus is on practical, actionable guidance that developers can immediately apply to improve their productivity.
+I often use card games for experimenting with new technology as I like them :)
 
 This project uses [Conventional Commits](docs/conventional-commits.md)
 
@@ -23,7 +21,29 @@ This project uses [Conventional Commits](docs/conventional-commits.md)
 - **[AI-Powered Pull Request Review Research](research/pr-review-research.md)** 🚧 _TODO_  
   _Investigation into automated code review workflows using GitHub Copilot and AI_
 
-### 🔄 Development Processes (spec-driven development)
+### 💡 Future Research Ideas
+
+#### 🎫 AI-Enhanced Jira Workflows
+- **Automated Story Point Estimation** - AI analysis of ticket complexity and historical data
+- **Smart Sprint Planning** - AI-driven capacity planning and backlog prioritization  
+- **Intelligent Ticket Categorization** - Auto-tagging and assignment based on content analysis
+- **Predictive Delivery Estimates** - ML models for more accurate timeline predictions
+- **Automated Acceptance Criteria Generation** - AI-assisted test case and criteria creation
+
+#### 🐙 GitHub AI Integration
+- **Intelligent Issue Triage** - Auto-labeling, assignment, and priority scoring of new issues
+- **AI-Powered Code Migration** - Automated refactoring and dependency upgrade suggestions
+- **Smart Branch Protection** - Dynamic rules based on code change impact analysis
+- **Automated Documentation Generation** - AI-generated README updates from code changes
+- **Intelligent Merge Conflict Resolution** - AI-assisted conflict resolution with context awareness
+
+#### 🔗 Cross-Platform AI Workflows  
+- **Jira-GitHub Sync Intelligence** - Smart linking of commits, PRs, and tickets with context
+- **Automated Release Notes** - AI-generated changelogs from Jira tickets and GitHub commits
+- **Development Velocity Analytics** - Cross-platform insights and bottleneck identification
+- **Smart Notification Management** - AI-filtered alerts to reduce noise and improve focus
+
+### 🔄 Re-usable Development Processes (spec-driven development)
 
 - **[Angular Library Upgrade Process](processes/angular-upgrade-process.md)**  
   _Step-by-step automated process for upgrading Angular libraries with AI assistance_
