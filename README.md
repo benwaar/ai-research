@@ -2,7 +2,7 @@
 
 This repository explores how **AI** and **automation** can improve the **developer experience**, software quality, and delivery efficiency — with a focus on **secure, human-in-the-loop workflows**.
 
-I develop **reusable processes**, **prompt frameworks**, and **automation pipelines** that integrate AI into everyday engineering tasks such as testing, dependency management, documentation, and workflow automation.
+I am developing **reusable processes**, **prompt frameworks**, and **automation pipelines** that integrate AI into everyday engineering tasks such as testing, dependency management, documentation, and workflow automation.
 
 > _“Exploring how AI can enhance developer experience — from intelligent automation and testing to human-in-the-loop and agentic engineering systems.”_
 
@@ -43,10 +43,37 @@ A structured path for applying AI to real-world engineering workflows.
 | Topic | Status | Summary |
 |-------|--------|----------|
 | **[Copilot for Unit Testing](research/copilot-unit-tests.md)** | ✅ | Practical guide for AI-assisted test generation and troubleshooting |
-| **[AI-Powered Pull Request Reviews](research/pr-review-research.md)** | 🚧 | Automating code review feedback using LLMs |
 | **[Model Context Protocol (MCP) Integration](research/mcp-integration-research.md)** | 🚧 | Advanced multi-tool AI orchestration |
+| **[AI-Powered Pull Request Reviews](research/pr-review-research.md)** | 🚧 | Automating code review feedback using LLMs |
 | **[Agentic AI in Development Workflows](research/agentic-ai-research.md)** | 🚧 | Exploring autonomous agents for code and workflow management |
+
+## � Future Research
+
+| Topic | Status | Summary |
+|-------|--------|----------|
 | **[Game-Playing AI with PPO](research/ppo-reinforcement-learning.md)** | 🧪 | Experimental reinforcement-learning agent for card-game environments |
+
+---
+
+## 🧩 AI Landscape Overview
+
+A simplified view of how key AI areas fit together — with focus indicators for current and upcoming study areas.
+
+```text
+AI
+├── Machine Learning
+│   ├── Supervised / Unsupervised Learning
+│   └── Reinforcement Learning (RL) 🟡 *Next*
+│       ├── Algorithms: Q-Learning, DQN, A3C, PPO, etc.
+│       ├── Environments: Games, Robots, Simulations
+│       └── Uses reward feedback, not static datasets
+└── Deep Learning
+    └── Large Neural Networks (Transformers, CNNs, etc.)
+        └── Large Language Models (LLMs) 🟢 *Current Focus*
+            ├── Prompt Engineering (interaction design layer) 🟢
+            ├── Tools & Plugins (retrieval, code, APIs) 🟢
+            └── Agentic AI (autonomous or semi-autonomous systems built on LLMs) 🟢
+
 
 ---
 
@@ -56,7 +83,6 @@ A structured path for applying AI to real-world engineering workflows.
 |----------|--------------|
 | **[Angular Library Upgrade Process](processes/angular-upgrade-process.md)** | **Human-in-the-loop, AI-assisted automation pipeline** for Angular version upgrades |
 | **[Git Pre-Commit PII Check](processes/commit-pii-check.md)** | Automated prevention of sensitive-data commits across repositories |
-
 
 ---
 
