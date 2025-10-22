@@ -1,5 +1,8 @@
 # Angular Library Upgrade Process
 
+_Human-in-the-loop, AI-assisted automation framework for Angular library upgrades — engineers supervise, validate, and resolve exceptions while the pipeline handles the heavy lifting._
+
+
 ---
 
 ## � **Project Configuration**
