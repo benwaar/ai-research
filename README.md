@@ -113,6 +113,12 @@ graph TD
 
 ---
 
+## Some Fun!
+
+| **[Iterative Creative Ideation Process](processes/creative-project-process-iteration.md)** | Guide extracted from a note organising and iterative creative ideation exercise using ChatGPT |
+
+---
+
 ## 🛠️ Scripts
 
 ### Security
