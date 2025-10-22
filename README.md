@@ -72,16 +72,16 @@ graph TD
     C --> D[Phase 4: Adaptive & Learning Agents 🟡]
     D --> E[Phase 5: Continuous Improvement & Security 🔵]
 
-    A --> A1(Prompt Engineering & AI Macros)
-    A --> A2(AI-Assisted Testing & Docs)
-    B --> B1(AI-Augmented CI/CD)
-    B --> B2(AI-Powered PR Reviews)
-    C --> C1(Model Context Protocol (MCP) Integration)
-    C --> C2(Human-in-the-Loop Automation)
-    D --> D1(Reinforcement Learning (PPO) Exploration)
-    D --> D2(Self-Improving Agentic Systems)
-    E --> E1(AI Governance & Security Automation)
-    E --> E2(Developer Productivity Analytics)
+    A --> A1["Prompt Engineering & AI Macros"]
+    A --> A2["AI-Assisted Testing & Docs"]
+    B --> B1["AI-Augmented CI/CD"]
+    B --> B2["AI-Powered PR Reviews"]
+    C --> C1["Model Context Protocol (MCP) Integration"]
+    C --> C2["Human-in-the-Loop Automation"]
+    D --> D1["Reinforcement Learning (PPO) Exploration"]
+    D --> D2["Self-Improving Agentic Systems"]
+    E --> E1["AI Governance & Security Automation"]
+    E --> E2["Developer Productivity Analytics"]
 ```
 
 ---
