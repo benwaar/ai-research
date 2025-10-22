@@ -256,6 +256,17 @@ Upgrades Angular from v{old_version} to v{new_version} and updates all supportin
 
 ---
 
+### 📦 Versioning Policy
+
+This project follows a **Hybrid Versioning Scheme**:
+
+- **Major version** aligns with the Angular version it supports.
+- **Minor and patch versions** follow standard **Semantic Versioning (SemVer)** for library changes.
+
+This ensures clear Angular compatibility while preserving version semantics. v18.2.1 for example would be Angular version 18 compatible, with 2 new features and a fix.
+
+---
+
 ## Troubleshooting
 
 ### Common Issues
