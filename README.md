@@ -74,6 +74,7 @@ AI
             ├── Tools & Plugins (retrieval, code, APIs) 🟢
             └── Agentic AI (autonomous or semi-autonomous systems built on LLMs) 🟢
 
+```
 
 ---
 
