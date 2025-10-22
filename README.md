@@ -8,6 +8,29 @@ I am developing **reusable processes**, **prompt frameworks**, and **automation 
 
 ---
 
+## 🧩 AI Landscape Overview
+
+A simplified view of how key AI areas fit together — with focus indicators for current and upcoming study areas.
+
+```text
+AI
+├── Machine Learning
+│   ├── Supervised / Unsupervised Learning
+│   └── Reinforcement Learning (RL) 🟡 *Next*
+│       ├── Algorithms: Q-Learning, DQN, A3C, PPO, etc.
+│       ├── Environments: Games, Robots, Simulations
+│       └── Uses reward feedback, not static datasets
+└── Deep Learning
+    └── Large Neural Networks (Transformers, CNNs, etc.)
+        └── Large Language Models (LLMs) 🟢 *Current Focus*
+            ├── Prompt Engineering (interaction design layer) 🟢
+            ├── Tools & Plugins (retrieval, code, APIs) 🟢
+            └── Agentic AI (autonomous or semi-autonomous systems built on LLMs) 🟢
+
+```
+
+---
+
 ## 🎓 Plan of Study
 
 A structured path for applying AI to real-world engineering workflows.
@@ -38,6 +61,31 @@ A structured path for applying AI to real-world engineering workflows.
 
 ---
 
+## 🗺️ AI Research & Development Roadmap
+
+A high-level view of the ongoing and future focus areas in this repository.
+
+```mermaid
+graph TD
+    A[Phase 1: Practical AI for Developers 🟢] --> B[Phase 2: Applied Engineering AI 🟢]
+    B --> C[Phase 3: Agentic & Orchestrated Systems 🟡]
+    C --> D[Phase 4: Adaptive & Learning Agents 🟡]
+    D --> E[Phase 5: Continuous Improvement & Security 🔵]
+
+    A --> A1(Prompt Engineering & AI Macros)
+    A --> A2(AI-Assisted Testing & Docs)
+    B --> B1(AI-Augmented CI/CD)
+    B --> B2(AI-Powered PR Reviews)
+    C --> C1(Model Context Protocol (MCP) Integration)
+    C --> C2(Human-in-the-Loop Automation)
+    D --> D1(Reinforcement Learning (PPO) Exploration)
+    D --> D2(Self-Improving Agentic Systems)
+    E --> E1(AI Governance & Security Automation)
+    E --> E2(Developer Productivity Analytics)
+```
+
+---
+
 ## 🔬 Current Research
 
 | Topic | Status | Summary |
@@ -55,28 +103,6 @@ A structured path for applying AI to real-world engineering workflows.
 
 ---
 
-## 🧩 AI Landscape Overview
-
-A simplified view of how key AI areas fit together — with focus indicators for current and upcoming study areas.
-
-```text
-AI
-├── Machine Learning
-│   ├── Supervised / Unsupervised Learning
-│   └── Reinforcement Learning (RL) 🟡 *Next*
-│       ├── Algorithms: Q-Learning, DQN, A3C, PPO, etc.
-│       ├── Environments: Games, Robots, Simulations
-│       └── Uses reward feedback, not static datasets
-└── Deep Learning
-    └── Large Neural Networks (Transformers, CNNs, etc.)
-        └── Large Language Models (LLMs) 🟢 *Current Focus*
-            ├── Prompt Engineering (interaction design layer) 🟢
-            ├── Tools & Plugins (retrieval, code, APIs) 🟢
-            └── Agentic AI (autonomous or semi-autonomous systems built on LLMs) 🟢
-
-```
-
----
 
 ## ♻️ Reusable Development Processes
 
