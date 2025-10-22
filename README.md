@@ -117,7 +117,8 @@ graph TD
 
 | Process | Description |
 |----------|--------------|
-| **[Iterative Creative Ideation Process](processes/creative-project-process-iteration.md)** | Guide extracted from a note organising and iterative creative ideation exercise using ChatGPT |
+| **[Iterative Creative Ideation Process](processes/creative-project-process-iteration.md)** | Guide extracted from a note organising and iterative creative exercise that used ChatGPT to organise and help the ideation process |
+| **[Sketching Gym](processes/research\sketching-focus-study.md)** | See if ChatGPT can give me tips to improve my sketching just for fun! |
 
 ---
 
