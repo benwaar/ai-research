@@ -118,8 +118,8 @@ graph TD
 
 | Process | Status | Description |
 |----------|--------|-------------|
-| **[Iterative Creative Ideation Process](processes/creative-project-process-iteration.md)** | ✅ | Guide extracted from organizing and iterative creative exercise using ChatGPT for ideation workflow |
-| **[Sketching Gym](processes/research/sketching-focus-study.md)** | ✅ | Experimental exploration of AI-assisted sketching improvement and technique development |
+| **[Iterative Creative Ideation Process](research/creative-project-process-iteration.md)** | ✅ | Guide extracted from organizing and iterative creative exercise using ChatGPT for ideation workflow |
+| **[Sketching Gym](research/sketching-focus-study.md)** | ✅ | Experimental exploration of AI-assisted sketching improvement and technique development |
 
 ---
 
