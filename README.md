@@ -91,7 +91,7 @@ graph TD
 | Topic | Status | Summary |
 |-------|--------|----------|
 | **[Copilot for Unit Testing](research/copilot-unit-tests.md)** | ✅ | Practical guide for AI-assisted test generation and troubleshooting |
-| **[AI-Assisted Study Plan Development](research/study-plans/developing-study-plans-with-chatgpt.md)** | ✅ | Research on using ChatGPT for creating structured, outcome-driven learning programs |
+| **[AI-Assisted Study Plan Development](research/developing-study-plans-with-chatgpt.md)** | ✅ | Research on using ChatGPT for creating structured, outcome-driven learning programs |
 | **[Model Context Protocol (MCP) Integration](research/mcp-integration-research.md)** | 🚧 | Advanced multi-tool AI orchestration |
 | **[AI-Powered Pull Request Reviews](research/pr-review-research.md)** | 🚧 | Automating code review feedback using LLMs |
 | **[Agentic AI in Development Workflows](research/agentic-ai-research.md)** | 🚧 | Exploring autonomous agents for code and workflow management |
@@ -114,12 +114,12 @@ graph TD
 
 ---
 
-## Some Fun!
+## 🎨 Creative AI Experiments
 
-| Process | Description |
-|----------|--------------|
-| **[Iterative Creative Ideation Process](processes/creative-project-process-iteration.md)** | Guide extracted from a note organising and iterative creative exercise that used ChatGPT to organise and help the ideation process |
-| **[Sketching Gym](processes/research\sketching-focus-study.md)** | See if ChatGPT can give me tips to improve my sketching just for fun! |
+| Process | Status | Description |
+|----------|--------|-------------|
+| **[Iterative Creative Ideation Process](processes/creative-project-process-iteration.md)** | ✅ | Guide extracted from organizing and iterative creative exercise using ChatGPT for ideation workflow |
+| **[Sketching Gym](processes/research/sketching-focus-study.md)** | ✅ | Experimental exploration of AI-assisted sketching improvement and technique development |
 
 ---
 

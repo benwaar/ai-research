@@ -32,18 +32,18 @@ This approach addresses the **"Satisfaction and well-being"** dimension of the [
 
 The following study plans demonstrate the methodology across different domains:
 
-#### 1. **[AI Art Prompt Engineering Study Plan](ai-art-prompt-engineering-study-plan.md)**
+#### 1. **[AI Art Prompt Engineering Study Plan](study-plans/ai-art-prompt-engineering-study-plan.md)**
 - **Domain**: Visual AI and prompt engineering
 - **Duration**: 7-phase progressive curriculum
 - **Learning Outcomes**: Modular prompt design, visual consistency, production-ready assets
 - **Technical Integration**: DALL-E, Stable Diffusion, Midjourney workflows
 
-#### 2. **[Graphic Novel Prompt Engineering Starter Pack](graphic-novel-prompt-engineering-starter-pack.md)**
+#### 2. **[Graphic Novel Prompt Engineering Starter Pack](study-plans/graphic-novel-prompt-engineering-starter-pack.md)**
 - **Domain**: Sequential art and narrative AI
 - **Focus**: Character consistency, storytelling through AI-generated visuals
 - **Applications**: Comic creation, storyboarding, visual narrative development
 
-#### 3. **[Music Prompt Engineering Starter Pack](music-prompt-engineering-starter-pack.md)**
+#### 3. **[Music Prompt Engineering Starter Pack](study-plans/music-prompt-engineering-starter-pack.md)**
 - **Domain**: Audio AI and music production
 - **Applications**: Composition assistance, sound design, audio processing workflows
 - **Integration**: AI music tools with traditional production techniques
