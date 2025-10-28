@@ -4,6 +4,10 @@
 
 The Model Context Protocol (MCP) represents a significant advancement in AI tool integration, enabling seamless communication between different AI models, development environments, and automation tools. This research explores practical applications of MCP for enhanced development workflows.
 
+Note: focus on https://www.mcp-server-directory.com/servers/github-dependabot-mcp-server
+and start with https://medium.com/@ronantech/a11y-mcp-an-mcp-server-for-web-accessibility-testing-e5aeeb322af3
+and look at https://github.com/JustasMonkev/mcp-accessibility-scanner
+
 ## 🔍 What is Model Context Protocol?
 
 MCP is an open standard that allows AI applications to securely connect to and interact with external systems and data sources. It provides a standardized way for AI models to access context, execute functions, and maintain state across different tools and environments.
