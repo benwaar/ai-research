@@ -48,6 +48,17 @@ The following study plans demonstrate the methodology across different domains:
 - **Applications**: Composition assistance, sound design, audio processing workflows
 - **Integration**: AI music tools with traditional production techniques
 
+#### 4. **[Full-Stack Game API Learning Plan for Keycloak Stack](https://github.com/benwaar/java-game-api/blob/main/docs/keycloak-stack-learning-plan.md)**
+- **Domain**: Full-stack web development and authentication systems
+- **Tech Stack**: Java Backend + React Frontend + Keycloak Authentication
+- **Focus**: Complete game API development with enterprise-grade authentication
+- **Applications**: Secure web applications, user management, API development
+
+
+https://github.com/benwaar/java-game-api/blob/main/docs/keycloak-stack-learning-plan.md
+
+
+
 ## 🛠️ Methodology for Study Plan Generation
 
 ### Template-Based Approach
