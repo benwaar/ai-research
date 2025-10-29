@@ -55,10 +55,6 @@ The following study plans demonstrate the methodology across different domains:
 - **Applications**: Secure web applications, user management, API development
 
 
-https://github.com/benwaar/java-game-api/blob/main/docs/keycloak-stack-learning-plan.md
-
-
-
 ## 🛠️ Methodology for Study Plan Generation
 
 ### Template-Based Approach
