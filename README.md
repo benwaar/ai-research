@@ -63,17 +63,19 @@ A high-level view of the ongoing and future focus areas in this repository.
 
 ```mermaid
 graph TD
-    A[Phase 1: Practical AI for Developers 🟢] --> B[Phase 2: Applied Engineering AI 🟢]
-    B --> C[Phase 3: Agentic & Orchestrated Systems 🟡]
+    A[Phase 1: Practical AI for Developers 🟢] --> B[Phase 2: Agentic & Orchestrated Systems 🟢]
+    B --> C[Phase 3: Applied Engineering AI 🟡]
     C --> D[Phase 4: Adaptive & Learning Agents 🟡]
     D --> E[Phase 5: Continuous Improvement & Security 🔵]
 
     A --> A1["Prompt Engineering & AI Macros"]
     A --> A2["AI-Assisted Testing & Docs"]
-    B --> B1["AI-Augmented CI/CD"]
-    B --> B2["AI-Powered PR Reviews"]
-    C --> C1["Model Context Protocol (MCP) Integration"]
-    C --> C2["Human-in-the-Loop Automation"]
+    B --> B1["Agentic AI Workflows"]
+    B --> B2["Model Context Protocol (MCP) Integration"]
+    B --> B3["Human-in-the-Loop Automation"]
+    C --> C1["AI-Augmented CI/CD"]
+    C --> C2["AI-Powered PR Reviews"]
+    C --> C3["Upgrade & Migration Tools"]
     D --> D1["Reinforcement Learning (PPO) Exploration"]
     D --> D2["Self-Improving Agentic Systems"]
     E --> E1["AI Governance & Security Automation"]
