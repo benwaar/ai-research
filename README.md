@@ -144,3 +144,15 @@ graph TD
 echo "SSNC-internal" > test.txt
 git add test.txt
 git commit -m "test"   # ❌ blocked by hook
+```
+
+## Python Setup & Usage
+
+To run Python examples:
+
+1. Ensure your virtual environment is set up (Pyenv or .venv).
+2. Use the provided script to activate and run:
+    ```zsh
+    ./run-python.sh
+    ```
+This will execute `src/agent.py` using your configured environment.
