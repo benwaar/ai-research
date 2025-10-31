@@ -17,6 +17,7 @@ AI
 ├── Machine Learning
 │   ├── Supervised / Unsupervised Learning
 │   └── Reinforcement Learning (RL) 🟡 *Next*
+│   └── Reinforcement Learning (RL) 🔵 *Future*
 │       ├── Algorithms: Q-Learning, DQN, A3C, PPO, etc.
 │       ├── Environments: Games, Robots, Simulations
 │       └── Uses reward feedback, not static datasets
@@ -26,6 +27,7 @@ AI
             ├── Prompt Engineering (interaction design layer) 🟢
             ├── Tools & Plugins (retrieval, code, APIs) 🟢
             └── Agentic AI (autonomous or semi-autonomous systems built on LLMs) 🟢
+                └── Model Context Protocol (MCP) 🟡 *Next*
 
 ```
 
@@ -93,6 +95,7 @@ graph TD
 | **[Copilot for Unit Testing](research/copilot-unit-tests.md)** | ✅ | Practical guide for AI-assisted test generation and troubleshooting |
 | **[AI-Assisted Study Plan Development](research/developing-study-plans-with-chatgpt.md)** | ✅ | Research on using ChatGPT for creating structured, outcome-driven learning programs |
 | **[Agentic AI in Development Workflows](research/agentic-ai-research.md)** | 🚧 | Exploring autonomous agents for code and workflow management |
+| **[Agentic AI in Development Workflows](research/agentic-ai-research.md)** | 🚧 *In Progress* | Exploring autonomous agents for code and workflow management |
 | **[Model Context Protocol (MCP) Integration](research/mcp-integration-research.md)** | 🚧 | Advanced multi-tool AI orchestration |
 
 
