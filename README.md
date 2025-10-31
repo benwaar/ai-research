@@ -92,9 +92,9 @@ graph TD
 |-------|--------|----------|
 | **[Copilot for Unit Testing](research/copilot-unit-tests.md)** | ✅ | Practical guide for AI-assisted test generation and troubleshooting |
 | **[AI-Assisted Study Plan Development](research/developing-study-plans-with-chatgpt.md)** | ✅ | Research on using ChatGPT for creating structured, outcome-driven learning programs |
-| **[Model Context Protocol (MCP) Integration](research/mcp-integration-research.md)** | 🚧 | Advanced multi-tool AI orchestration |
-| **[AI-Powered Pull Request Reviews](research/pr-review-research.md)** | 🚧 | Automating code review feedback using LLMs |
 | **[Agentic AI in Development Workflows](research/agentic-ai-research.md)** | 🚧 | Exploring autonomous agents for code and workflow management |
+| **[Model Context Protocol (MCP) Integration](research/mcp-integration-research.md)** | 🚧 | Advanced multi-tool AI orchestration |
+
 
 ## � Future Research
 
