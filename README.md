@@ -44,21 +44,16 @@ A structured path for applying AI to real-world engineering workflows.
   - Process automation and code refactoring
 - Build reusable **AI prompt templates** (“AI macros”) for daily development tasks
 
-### **Phase 2 – Applied Engineering AI**
-- Integrate AI into CI/CD and DevOps pipelines  
-- Build **AI-assisted upgrade and migration tools** (e.g., Angular upgrade automation)  
-- Research **AI-powered code review** and **dependency analysis**
-- Develop AI-based quality and compliance checks
-
-### **Phase 3 – Agentic & Orchestrated Systems**
+### **Phase 2 – Agentic & Orchestrated Systems**
 - Experiment with **agentic AI** for autonomous workflow coordination  
 - Explore **Model Context Protocol (MCP)** and cross-tool AI integrations  
 - Research AI-enhanced developer analytics and security governance  
 
-### **Phase 4 – Engineering Productivity & Security**
-- Apply ML and analytics for delivery-time prediction and developer velocity  
-- Strengthen software supply-chain security using automated PII detection and code scanning  
-- Use AI insights to optimize development flow and reduce risk
+### **Phase 3 – Applied Engineering AI**
+- Integrate AI into CI/CD and DevOps pipelines  
+- Build **AI-assisted upgrade and migration tools** (e.g., Angular upgrade automation)  
+- Research **AI-powered code review** and **dependency analysis**
+- Develop AI-based quality and compliance checks
 
 ---
 
