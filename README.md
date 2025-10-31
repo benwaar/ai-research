@@ -16,7 +16,6 @@ A simplified view of how key AI areas fit together — with focus indicators for
 AI
 ├── Machine Learning
 │   ├── Supervised / Unsupervised Learning
-│   └── Reinforcement Learning (RL) 🟡 *Next*
 │   └── Reinforcement Learning (RL) 🔵 *Future*
 │       ├── Algorithms: Q-Learning, DQN, A3C, PPO, etc.
 │       ├── Environments: Games, Robots, Simulations
